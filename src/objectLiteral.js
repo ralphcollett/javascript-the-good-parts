@@ -1,5 +1,3 @@
-document.writeln('Hello, world!');
-
 var person = {
 	firstName: "Sally",
 	surname: "McGrew",
